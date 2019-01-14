@@ -1,0 +1,23 @@
+.is-active {
+  font-weight : 500;
+  color : $dark-blue;
+}
+.tableItem {
+  display : inline-block;
+  width : 112px;
+  padding: 16px;
+}
+.title {   
+  color : green;
+  font-weight: 1000;
+  border-bottom: 2px solid green;
+}
+
+.listTitle {
+  margin-top: 16px;
+  font-size: 32px;
+}
+
+.warning {
+  color : $dark-red
+}
